@@ -1,0 +1,5 @@
+Date,Title,Type,Category,Amount,Description,Notes
+2026-11-01,Monthly salary,INCOME,Salary,50000.00,November paycheck,Received by bank transfer
+2026-11-03,Groceries,EXPENSE,Food,1250.50,Weekly shopping,Split with roommate
+2026-11-05,Bus pass,EXPENSE,Travel,450.00,Monthly commute pass,
+2026-11-07,Course materials,EXPENSE,Education,899.99,Programming book,For the Python course
